@@ -1,0 +1,9 @@
+<!doctype html> <html class="no-js" language="en"> <head> <meta charset="utf-8"> <title>Xiao Han's Art Corner</title> <meta name="description" content=""> <meta name="viewport" content="width=device-width"> <link rel="icon" href="favicon.png"> <link rel="stylesheet" href="styles/vendor.d41d8cd9.css"> <link rel="stylesheet" href="styles/main.6e98e146.css"> <script src="scripts/vendor/modernizr.d41d8cd9.js"></script> </head> <body ng-app="portfolioApp" ng-controller="MainController as main"> <!--[if lte IE 8]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--> <header ng-include="header.url"></header> <main class="page page-{{page}}" ng-view></main> <footer ng-include="footer.url" in-view="footer.inview = $inview" in-view-options="{ debounce: 50 }"></footer> <script>!function(A,n,g,u,l,a,r){A.GoogleAnalyticsObject=l,A[l]=A[l]||function(){
+       (A[l].q=A[l].q||[]).push(arguments)},A[l].l=+new Date,a=n.createElement(g),
+       r=n.getElementsByTagName(g)[0],a.src=u,r.parentNode.insertBefore(a,r)
+       }(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+       ga('create', 'UA-51809324-1');
+       ga('send', 'pageview');</script> <script src="https://use.typekit.net/wva0cie.js"></script> <script>try{Typekit.load({ async: true });}catch(e){}</script> <script src="scripts/vendor.cfc5dbbe.js"></script> <script src="scripts/scripts.4eea350b.js"></script> </body> </html>
