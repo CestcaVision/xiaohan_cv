@@ -122,8 +122,7 @@ function factoryProjects() {
         imgPath: "storyboard",
         title: "Storyboard",
         // subtitle: "Hiring Web Application",
-        // description: "Build internal React components library, creating consistent and engaging design patterns across all parts of our platform.  Shipped the Career Site custom builder where clients can create their own branded Career pages in just a few minutes. As a result, larger clients were attracted to Workpop.  Updated the subscription model essential to business growth needs. This resolved long standing customer issues by making the account management experience CSS easier.",
-        link: "",
+        description: "As my daily sketches were appreciated by the art director when I worked for The Great Wall, I got the opportunity of designing storyboards for other directors. Then I designed a part of the storyboard for the fantasy film Once upon a Time which involved many fighting scenes with special effect. Later, I was responsible for the design of the storyboard of all the scenes for The Founding of an Army which involved gunfight scenes, street battle scenes, exploding scenes, etc. And the storyboard I designed was recognized by the director Wai-Keung Lau.",
         screenshots: [{
           title: "The Founding Of An Army",
           images: ["sb01.jpg","sb02.jpg","sb03.jpg","sb04.jpg","sb05.jpg","sb06.jpg","sb07.jpg"]
@@ -133,7 +132,7 @@ function factoryProjects() {
         imgPath: "conceptart",
         title: "Concept Art",
         // subtitle: "E-commerce platform",
-        // description: "Smooth Jazz is a single page application equipped for E-commerce solution.  As a front end developer, I worked on interface design and develop for various features, such as adding product to wish list, gift card purchase and redemption, assigning similar products, etc.  I challenged myself to also emmerse into back end development, and implemented features like building tree structure for product listing navigation, improving search algorithm, and building an email template generating tool.",
+        description: "Since 2011 when I started my career as a film concept designer, I have already designed scenes for many films. The scenes I designed involved various Chinese ancient dynasties, like the three kingdoms period (The Assassins), the Song dynasty (The Great Wall), the period of the Republic of China (The Founding of an Army), modern times (The Rooftop), etc. In addition, I designed images of the monster for the film When Robbers Meet the Monster. Up to now, I’ve cooperated with lots of excellent art directors and many famous Chinese directors, including Zhang Yimou, Wai-Keung Lau, Jay Zhou, etc. ",
         noMobile: !0,
         screenshots: [{
           title: "The Great Wall",
@@ -153,6 +152,7 @@ function factoryProjects() {
         imgPath: "costumedesign",
         title: "Costume Design",
         // subtitle: "E-commerce site",
+        description:"I was also responsible for the design of characters’ costumes for many films and ever cooperated with Hark Tsui, Yuan Heping, etc. The costumes I designed covered many historical periods. The films that I participated in enjoyed great popularity in China and made good achievements at the box office. For instance, Monster Hunt directed by Xu Chengyi. The images of characters in Monster Hunt were adored by many audience. ",
         screenshots: [{
           title: "The Village of no Return",
           images: ["jianwangcun_01.jpg"]
@@ -176,6 +176,7 @@ function factoryProjects() {
       "illustration": {
         imgPath: "illustration",
         title: "illustration",
+        description:"Most of the illustrations that I created comes from my own imagination. Sometimes, it was one of the scenes of a fantasy story. And sometimes it expressed a kind of feeling or sentiment from myself. The tools that I used includes water color, acrylic paint, oil paint, and some painting software. I want to find out the painting language and the ways of expression that belong to myself. ",
         screenshots: [
           {
             title: "",
@@ -186,6 +187,7 @@ function factoryProjects() {
       "personalsketch": {
         imgPath: "personalsketch",
         title: "Personal Sketch",
+        description:"Goldfish is a comic drew by myself. The inspiration of the story comes from a piece of true news. I provided the idea and decided to complete the story with my editor. It is a story about a journalist who determined to find out the truth, a poor but kind mother and her daughter. I want to discuss the relationship between the truth and the false and to explore the emotional relationship between different people. According to my plan, there is going to be 16 chapters in this comic. At present, I am still working on it. ",
         screenshots: [{
           title: "Gold Fish",
           images: ["JY02.jpg","JY03.jpg","JY04.jpg","JY05.jpg","JY08.jpg","JY09.jpg"]
@@ -195,6 +197,7 @@ function factoryProjects() {
       "lifedrawing": {
         imgPath: "lifedrawing",
         title: "Life Drawing",
+        description:"In order to sharpen my painting skills and have a better understanding of the physical structure, I spent most of my free time on practicing sketching. And I often practice 3-minitue sketch and 5-minute sketch to improve my painting speed.  The conferences of my sketches includes real models, pictures, and film screenshots. And there are also some concept design sketches in this part. I want to explore my own painting styles through my practice. ",
         screenshots: [{
           images: ["ld_01.jpg","ld_02.jpg","ld_03.jpg","ld_04.jpg","ld_05.jpg","ld_06.jpg","ld_07.jpg","ld_08.jpg","ld_09.jpg","ld_10.jpg","ld_11.jpg","ld_12.jpg"]
         }]
